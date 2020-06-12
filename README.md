@@ -1,1 +1,2 @@
 # git_practice
+I am creating this repository to practice some of git's features such as branching, merging, and rebasing. I want to try them here so I don't mess anything up on an actual project in the future. 
